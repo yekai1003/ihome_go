@@ -2,10 +2,10 @@ package controllers
 
 import (
 	"encoding/json"
-	"ihome/models"
+	"ihome_go/models"
 	"os"
 
-	"ihome/utils"
+	"ihome_go/utils"
 
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/httplib"

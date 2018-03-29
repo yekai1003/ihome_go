@@ -1,13 +1,13 @@
 package routers
 
 import (
-	"ihome/controllers"
+	"ihome_go/controllers"
 	"net/http"
 	"strings"
 
 	"github.com/astaxie/beego/context"
 
-	_ "ihome/models"
+	_ "ihome_go/models"
 
 	"github.com/astaxie/beego"
 )
